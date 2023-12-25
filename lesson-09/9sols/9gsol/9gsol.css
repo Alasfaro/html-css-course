@@ -1,0 +1,37 @@
+.nineg, .nineg2, .nineg3 {
+    width: 200px;
+    margin-left: 15px;
+    padding-bottom: 12px;
+    display: inline-block;
+    box-shadow: 0px 0px 6px rgba(0,0,0,0.5);
+}
+.cat, .cat2, .cat3 {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+p {
+    font-family: Arial;
+    margin-left: 8px;
+}
+.name2, .name3, .name {
+    font-weight: bold;
+}
+.friends, .friends2, .friends3 {
+    font-size: 14px;
+    color: rgb(147, 145, 145);
+}
+.add, .add2, .add3 {
+    background-color: rgb(32, 139, 210);
+    color: white;
+    font-size: 14px;
+    border-radius: 4px;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin-left: 8px;
+    cursor: pointer;
+}
